@@ -1,4 +1,4 @@
-import * as ele from "./utils/elements.js";
+import * as ele from "voice-recognisation/utils/elements.js";
 
 const speechRecognition =
   window.SpeechRecognition ||
